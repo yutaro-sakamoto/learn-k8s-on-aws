@@ -1,0 +1,3 @@
+[submodule "k8sbook"]
+	path = k8sbook
+	url = git@github.com:kazusato/k8sbook.git
